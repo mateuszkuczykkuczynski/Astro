@@ -1,4 +1,6 @@
-The Astro program is a planet simulation. However, it is not an ordinary planet simulator because it is based on real astronomical values such as real distances of planets from each other, masses of planets or even force of gravity. All these values have been appropriately multiplied by constant values so that the simulation reflects the real movement of the planets in orbit, but at an accelerated rate. The program was built in Python, mostly using the Pygame module. 
+Astro: Journey Through the Cosmos
+
+Step into Astro: more than just a planet simulator—it's a celestial experience grounded in reality. Harnessing true astronomical data, Astro paints a vivid picture of planets in their orbital ballet, showcasing their genuine distances, masses, and the forces of gravity they exert. While the core mechanics mirror the universe, values are adeptly scaled for an accelerated celestial display. Developed in Python and majorly driven by the Pygame module, Astro invites you to a mesmerizing voyage in space.
 
 
 
