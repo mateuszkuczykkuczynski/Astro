@@ -7,4 +7,4 @@ Step into Astro: more than just a planet simulator—it's a celestial experience
 
  ![image](https://user-images.githubusercontent.com/107583660/177059430-b0f5b918-cf39-4ad6-a9af-f81d1c96defe.png)
 
-
+As i have gained some professional experience i will take a chance and try to make a little refactor of this project in my free time.
